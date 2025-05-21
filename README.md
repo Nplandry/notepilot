@@ -1,3 +1,22 @@
-Notepilot es una aplicacion que impulsa tu desarrollo de ideas, recuerdos, tareas atraves de inteligencia artificial. Esta crea la base de la nota y el usuario posteriormente
-tiene la libertad de editarla a su gusto. 
-Actualmente esta app se encuentra en desarrollo para ser publicada en todos los stores.
+# ✈️ Notepilot
+
+> Impulsa tus ideas, recuerdos y tareas con inteligencia artificial.
+
+
+---
+
+## ¿Qué es Notepilot?
+
+**Notepilot** es una aplicación diseñada para potenciar tu productividad y creatividad. Utilizando inteligencia artificial, genera una base sólida para tus notas, ya sean ideas, tareas o recuerdos. Tú tienes el control final: edita, completa o transforma la nota como prefieras.
+
+---
+
+## Estado del proyecto
+
+> **En desarrollo**  
+Actualmente se esta trabajando para lanzar **Notepilot** en todos los stores moviles.
+
+---
+**Equipo:**
+
+Desarrollado con por Nicolas Poblete L. 
